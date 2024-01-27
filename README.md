@@ -87,6 +87,8 @@ If you run it on your local machines: (the example below runs [move_base](http:/
 ```
 source ../../devel/setup.sh
 python3 run.py --world_idx 0
+python3 run.py --world_idx 0 --gui
+
 ```
 
 If you run it in a Singularity container:
